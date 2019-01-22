@@ -1,0 +1,34 @@
+{
+  "name": "fcc-tribute_project",
+  "version": "1.0.0",
+  "description": "Build a tribute project. I created a tribute page of the late Chester Bennington.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkJamin/fcc-tribute_project.git"
+  },
+  "keywords": [
+    "freecodecamp",
+    "fcc",
+    "chester",
+    "bennington",
+    "codepen",
+    "codepen.io",
+    "coding",
+    "code",
+    "html",
+    "css",
+    "css",
+    "grid",
+    "freecodecamp.org"
+  ],
+  "author": "mark jamin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarkJamin/fcc-tribute_project/issues"
+  },
+  "homepage": "https://github.com/MarkJamin/fcc-tribute_project#readme"
+}
